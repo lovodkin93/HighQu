@@ -1,7 +1,8 @@
 # HighQu
 
 ## Dataset Pre-processing
-The first step is to pre-process the data. 
+Train, dev and test sets are under `data/controlled_text_reduction`.
+If you want to use your own data, you first need to pre-process it. 
 To do that, follow the steps described in [preprocess_utils/README.md](preprocess_utils/README.md).
 
 ## Requirements
