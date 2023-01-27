@@ -1,0 +1,28 @@
+# Jupyter files
+.ipynb_checkpoints
+
+# Run files
+nohup.out
+
+# VS code files
+.vscode
+launch.json
+
+# Dev docker files
+.devcontainer
+
+# Models
+init_models/
+init_models/*
+
+
+# Cache files
+__pycache__
+.pytest_cache
+
+# Run files
+wandb/
+wandb/*
+runs/
+runs/*
+
